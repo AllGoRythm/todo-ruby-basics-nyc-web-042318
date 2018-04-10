@@ -6,7 +6,7 @@ def assign_variable(value)
   yellow = value
 end
 
-def argue
+def argue(words)
   puts argue
 end
 
