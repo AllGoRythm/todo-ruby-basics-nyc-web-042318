@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-
+  yellow = value
 end
 
 def argue
