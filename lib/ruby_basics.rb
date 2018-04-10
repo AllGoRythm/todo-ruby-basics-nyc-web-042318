@@ -10,7 +10,7 @@ def argue(words)
   words
 end
 
-def greeting
+def greeting(word1, word2)
 
 end
 
